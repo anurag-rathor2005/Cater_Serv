@@ -1,0 +1,280 @@
+
+
+.form_filling{
+					border:1px solid black;}
+	 
+
+	.anu{
+					border:1px solid black;}
+			
+	.demo{
+					margin:50px;
+					display:flex;}
+
+	.navbar-collapse {
+						flex-basis: 80%;
+						flex-grow: 0;
+		   
+									}
+			
+	.ico{
+					  border:1px solid white;
+					  background-color:#d4a762;
+					  width:3vw;
+					  margin:50;
+					  border-radius:100px;}
+	.ico:hover{
+				background-color:black;
+				color:#d4a762;}
+		
+	.demo h5{
+				 border:1px solid #d4a762;
+				 border-radius:30px;
+				 text-align:center;
+				 padding:5px;
+				 width:12em;
+				 justify-content:space-between;
+				 margin:40px;
+				 font-family: "Playball", cursive;}
+				 
+	.demo h1{
+					margin:30px;
+					font-size:50px;
+					font-family: "Playball", cursive;}
+	
+	.demo h1 span{
+					color:#d4a762;
+						}
+						
+	
+	.d-flex{
+				background-color:#d4a762;
+				border-radius:10px;
+				}
+	.stn{
+				border:1px solid white;
+				border-radius:30px;
+				background-color:#d4a762 ;
+				}
+			      
+    .btn{
+				color:black;
+				background-color:#d4a762;
+				border-radius:20px;
+				margin-left:40px;
+				font-size:16px;
+				}
+	
+	.btn:hover{
+		          background-color:black;
+				   color: #da7714;}
+		
+	
+	.navbar-brand span{
+			     color:#d4a762;	
+				font-family: "Playball", cursive; }
+				
+	.nav-link a{
+	         color:blue;}
+	.dtn{
+			border:1px solid black;
+			width:100px;
+			color:black;
+			border-radius:30px;
+			text-decoration:none;}
+	
+	.dell{
+				display:flex;
+				margin:150px 50px;}
+		
+	.dtn a{
+				text-decoration:none;
+				 color:black;
+						}
+						
+    .dell h2{
+					font-family: "Playball", cursive;
+													}
+													
+	.abc h3{
+					font-family: "Playball", cursive;
+					}
+					
+	.off h1{
+	              
+					font-family: "Playball", cursive;
+												}
+	.box_2{
+				box-shadow: -1px -2px 14px  rgb(175, 168, 168);}
+				
+	
+	.xyz h1{
+	        
+					font-family: "Playball", cursive;
+												}
+												
+	.apple h1{
+				
+					font-family: "Playball", cursive;
+					}
+	.box-8:hover{
+					background-color:#d4a762;
+											}
+											
+	.box-8 h6:hover{
+					color:white; }
+	.box-8 p:hover{
+					color:black;}
+			
+
+	   .stn{
+			  width:10vw;}			
+	
+	.stn a{
+	       
+				color:black; 
+				text-decoration:none;
+				background-color:#d4a762;
+				}
+	
+	.stn:hover{
+	           background-color:black;
+			   color:#d4a762;}
+	
+	.stn a:hover {
+				   background-color:black;
+				   color:#d4a762;}
+		
+	
+	
+	.service-item .service-content-icon {
+											position: relative;
+											z-index: 2;
+										}
+											
+	.by h1{
+	        font-family: "Cedarville Cursive", cursive;}
+	
+		.heat{
+				display:flex;}
+	
+	  .heat h6{
+				display:flex;
+				padding:15px;}
+	
+	.fdn{
+	        border:1px solid white;    
+	        border:1px solid white;    
+            width:10vw;	
+			margin-left:20px;
+			border-radius:30px;
+			background-color:#d4a762;}
+	
+	.fdn:hover{
+			background-color:black;
+			color:#da7714;}
+	
+	.fdn a{
+	       text-decoration:none;
+			color:black; 
+			font-size:16px;}
+	
+	.fdn a:hover{
+				color: #da7714;}
+
+	.abc {
+			margin:100px;}
+		
+	.our{
+			text-align:center;
+			margin:80px;}
+	
+	.our h1{
+	       margin:20px;}
+		   
+	.ohh{
+	      background-color:black;
+		  display:flex;
+		  padding:50px;
+		  margin:80px 20px;}
+	.foot{
+	      margin:0px 100px;
+		  color:white;}
+		 
+	.foot-2{
+			padding-left:200px;
+			color:white;}
+			
+	.face{
+			boredr-radius:30px;}
+
+	
+	.brt{
+			border-radius:30px;
+		
+	.brt a{
+			color:black;
+			text-decoration:none;
+			padding:0px 10px;}
+			
+	.stn:hover{
+	         background-color:black;
+			 }
+	.stn a:hover{
+				color:#da7714;}
+	
+    .off box_2:hover{
+						background-color:green;}
+		
+	.space{
+	       margin-top:200px;}
+		   
+	.hardy{
+			   border:1px solid black;
+			   border-radius:50px;}
+	
+	.form_filling{
+					border:1px solid black;}
+	 
+	 .form_filling form_name a{
+					border-radius:4px;
+					color:black;
+					border-color:#ffc107;
+					padding:10px 20px;
+					border-radius:50px;
+					font-size:15px;}
+					
+		.form_details select{
+							widh:25%;
+							padding:5px 10px;
+							border-color:#ffcl107;
+							margin-left:10px;
+							margin-right:10px;
+							margin-bottom:30px;
+												}
+												
+	.form_name select{
+		width:25%!important;
+	}
+	.form_details input[type=text]{
+							width:25%;
+							padding:5px 10px;
+							border-color:#ffcl107;
+							margin-left:10px;
+							margin-right:10px;
+							margin-bottom:30px;
+							}
+	.form_details button{
+							width:25%;
+							padding:5px 10px;
+							border-color:#ffcl107;
+							margin-left:10px;
+							margin-right:10px;
+							margin-bottom:30px;
+							}
+	.order_box{
+	background-image
+	}
+	.windows{
+	          display:flex;
+	}
